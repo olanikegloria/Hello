@@ -1,13 +1,3 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 # 📗 Table of Contents
 
@@ -45,8 +35,6 @@ the tech stack I used are html, css and git they are really useful
   </ul>
 </details>
 
-<!-- Features -->
-
  <a name="key-features">
 
 - **[contains git ignore]**
@@ -56,37 +44,26 @@ the tech stack I used are html, css and git they are really useful
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🚀 Live Demo <a name="live-demo">
-
-- [Live Demo Link](https://github.com/olanikegloria/Hello/pull/1)
-  </a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
 In order to run this project you need:
+1.knowledge of html and css
+2.vscode installed.<a href="https://code.visualstudio.com/">link to download vscode</a>
+3.vscode installed.<a href="https://nodejs.org/en/download">link to download vscode</a>
 
-<!--
-npm, vscode and git
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
+use tis command to clone your repository 'git clone'
+('git@github.com:olanikegloria/Hello.git')
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
+### Install
+install ths project with
+npm install
 
 ### Run tests
 
@@ -106,8 +83,6 @@ open with live server
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
