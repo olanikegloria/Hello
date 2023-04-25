@@ -126,9 +126,8 @@ I would like to thank everyone who has supported or motivated me in one way or t
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="license " href="https://github.com/olanikegloria/Hello/blob/main/LICENSE.md"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
